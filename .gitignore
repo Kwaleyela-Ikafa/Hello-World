@@ -14,4 +14,4 @@ node_modules
 .DS_stor
 
 # Ignore test.md file
-test.md
+#test.md
